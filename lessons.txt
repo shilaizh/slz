@@ -1,5 +1,9 @@
 write in here something you learned today and^^^
 ASJHFKALDHFAKLSHDKLAJSHLKA
+<<<<<<< HEAD
 
 sdjflkjasdlkfj
 hahahhahahahahhahahhah
+=======
+new update
+>>>>>>> 12c2366d266e29a5f9173af8fe3613e2b6b5992f
